@@ -1,0 +1,14 @@
+numpy
+pandas
+requests
+python-dotenv
+oracledb
+cx_Oracle
+SQLAlchemy
+tqdm
+prefect==2.20.2
+prefect-email==0.3.6
+azure-storage-blob
+azure-core
+gspread google-auth
+dask
