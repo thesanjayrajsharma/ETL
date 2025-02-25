@@ -36,7 +36,6 @@ The following jobs are run from this repository
 
 # Getting Started
 
-If you have questions about how to run or setup the code in this repository, please send a message to jonathan bechtel at jonathan.b@fevtutor.com to get help.
 
 **To run scripts to pull nwea data:**
 
